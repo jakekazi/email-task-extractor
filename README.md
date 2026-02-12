@@ -6,7 +6,7 @@ An AI-powered tool that extracts structured tasks from unstructured emails using
 
 **Try it here:** [https://email-task-extractor.streamlit.app/](https://email-task-extractor.streamlit.app/)
 
-> **Note:** The live demo has API access disabled to prevent usage costs. To use the full AI extraction features, clone this repo and run it locally with your own Anthropic API key (see [Quick Start](#quick-start) below). The demo showcases the UI and functionality.
+> **Note:** The live demo has limited API access to prevent usage costs. To use the full AI extraction features, clone this repo and run it locally with your own Anthropic API key (see [Quick Start](#quick-start) below). The demo showcases the UI and functionality.
 
 ## Features
 
