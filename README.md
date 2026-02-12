@@ -2,6 +2,12 @@
 
 An AI-powered tool that extracts structured tasks from unstructured emails using Large Language Models (LLMs). The system automatically assigns confidence scores and routes low-confidence tasks to human review.
 
+## 🌐 Live Demo
+
+**Try it here:** [https://email-task-extractor.streamlit.app/](https://email-task-extractor.streamlit.app/)
+
+> **Note:** The live demo has API access disabled to prevent usage costs. To use the full AI extraction features, clone this repo and run it locally with your own Anthropic API key (see [Quick Start](#quick-start) below). The demo showcases the UI and functionality.
+
 ## Features
 
 - 🤖 **AI-Powered Extraction**: Uses Claude to extract tasks, deadlines, assignees, and priorities from email text
@@ -34,6 +40,8 @@ email-task-extractor/
 - Anthropic API key (get one at https://console.anthropic.com/)
 
 ## Quick Start
+
+> **Want the full AI extraction?** Clone this repo and run locally with your own API key. The [live demo](https://email-task-extractor.streamlit.app/) has API disabled for cost reasons.
 
 ### 🌐 Option A: Web Application (RECOMMENDED)
 
