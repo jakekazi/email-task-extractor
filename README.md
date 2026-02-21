@@ -41,7 +41,7 @@ email-task-extractor/
 
 ## Quick Start
 
-> **Want the full AI extraction?** Clone this repo and run locally with your own API key. The [live demo](https://email-task-extractor.streamlit.app/) has API disabled for cost reasons.
+> **Want the full AI extraction?** Clone this repo and run locally with your own API key. The [live demo](https://email-task-extractor.streamlit.app/) has limited API access to prevent usage costs.
 
 ### 🌐 Option A: Web Application (RECOMMENDED)
 
